@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(#353a3f 40%, #212529 60%);
+}
+
+#front{
+    color: #F6F4F0;
+    background: #212529;
+    height: 100vh;
+    background: linear-gradient(#212529 30%, #353a3f 70%);
+    justify-content: center;
+    margin: 0;
+
+ }
+
+ #imgfront{
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 9px;
+    border-color: black;
+ }
+
+ #div1{
+    display: flex;
+    justify-content: center;
+ }
